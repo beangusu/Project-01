@@ -17,3 +17,12 @@ p {
 ul {
     color: #85a1dc;
 }
+
+div {
+    width: 150px;
+    height: 100px;
+    background-color: #4157a1;
+    border: 3px solid #85a1dc;
+    padding: 25px;
+    margin: 50px 0;
+}
