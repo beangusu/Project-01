@@ -1,28 +1,25 @@
 body {
-    background-color: #0e152f;
+    background-color: #1a151a;
+    padding: 20px 40px;
+    margin: 30px;
 }
 
 h1 {
-    color: #ab3e42;
+    color: #bb7a8a;
+    font-family: garamond;
 }
 
 h2 {
-    color: #85a1dc;
+    color: #9e5c6c;
+    font-family: garamond;
 }
 
 p {
-    color: #85a1dc;
+    color: #bb918d;
+    font-family: garamond;
 }
 
 ul {
-    color: #85a1dc;
-}
-
-div {
-    width: 150px;
-    height: 100px;
-    background-color: #4157a1;
-    border: 3px solid #85a1dc;
-    padding: 25px;
-    margin: 50px 0;
+    color: #9e5c6c;
+    font-family: garamond;
 }
